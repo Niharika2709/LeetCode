@@ -1,22 +1,49 @@
 class Solution {
 public:
-    int maxArea(vector<int>& height) {
-        int left = 0;
-        int right = height.size() - 1;
-        int maxi = 0;
+    vector<vector<int>> threeSum(vector<int>& nums) {
 
-        while(left < right) {
-            int h = min(height[left], height[right]);
-            int width = right - left;
+        vector<vector<int>> ans;
 
-            maxi = max(maxi, h * width);
+        sort(nums.begin(), nums.end());
 
-            if(height[left] < height[right])
-                left++;
-            else
-                right--;
+        for (int i = 0; i < nums.size() - 2; i++) {
+
+            
+            if (i > 0 && nums[i] == nums[i - 1])
+                continue;
+
+            int left = i + 1;
+            int right = nums.size() - 1;
+
+            while (left < right) {
+
+                int sum = nums[i] + nums[left] + nums[right];
+
+                if (sum == 0) {
+
+                    ans.push_back({nums[i], nums[left], nums[right]});
+
+                    left++;
+                    right--;
+
+                    // Skip duplicate left values
+                    while (left < right && nums[left] == nums[left - 1])
+                        left++;
+
+                    // Skip duplicate right values
+                    while (left < right && nums[right] == nums[right + 1])
+                        right--;
+
+                }
+                else if (sum < 0) {
+                    left++;
+                }
+                else {
+                    right--;
+                }
+            }
         }
 
-        return maxi;
+        return ans;
     }
 };
