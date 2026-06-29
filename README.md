@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Niharika2709/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Niharika2709/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Niharika2709/LeetCode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Niharika2709/LeetCode/tree/master/0048-rotate-image) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Niharika2709/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Niharika2709/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Niharika2709/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Niharika2709/LeetCode/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Niharika2709/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Niharika2709/LeetCode/tree/master/0018-4sum) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Niharika2709/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
