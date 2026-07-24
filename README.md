@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Niharika2709/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Niharika2709/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Niharika2709/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/Niharika2709/LeetCode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Niharika2709/LeetCode/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Niharika2709/LeetCode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Niharika2709/LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Niharika2709/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Niharika2709/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
