@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Niharika2709/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Niharika2709/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Niharika2709/LeetCode/tree/master/0066-plus-one) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Niharika2709/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
 | ------- |
